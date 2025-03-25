@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: gjb3nttkx-python-gitops-repository
+spec:
+  url: https://github.com/tnevrlka-rhtap/gjb3nttkx-python-gitops
